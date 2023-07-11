@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1y58zMNUTVE/UYn6xTtyRpRExHJ3ZMgz8rQQpJpEMOId/myAVRyVPINdc5GKIkn9YQQuFuEbVt/UqVeDyQLtDg==",
+  "success": true,
+  "projectFilePath": "/Users/fe_silva/Developer/Experiments/exp1_sql_project_container/db_local_container/db_local_container.sqlproj",
+  "expectedPackageFiles": [
+    "/Users/fe_silva/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/Users/fe_silva/.nuget/packages/microsoft.netframework.referenceassemblies.net46/1.0.0/microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

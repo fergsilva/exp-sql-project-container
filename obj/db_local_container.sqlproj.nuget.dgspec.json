@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/fe_silva/Developer/Experiments/exp1_sql_project_container/db_local_container/db_local_container.sqlproj": {}
+  },
+  "projects": {
+    "/Users/fe_silva/Developer/Experiments/exp1_sql_project_container/db_local_container/db_local_container.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fe_silva/Developer/Experiments/exp1_sql_project_container/db_local_container/db_local_container.sqlproj",
+        "projectName": "db_local_container",
+        "projectPath": "/Users/fe_silva/Developer/Experiments/exp1_sql_project_container/db_local_container/db_local_container.sqlproj",
+        "packagesPath": "/Users/fe_silva/.nuget/packages/",
+        "outputPath": "/Users/fe_silva/Developer/Experiments/exp1_sql_project_container/db_local_container/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/fe_silva/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5128"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

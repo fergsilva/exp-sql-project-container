@@ -1,0 +1,9 @@
+/Users/fe_silva/Developer/Experiments/exp1_sql_project_container/db_local_container/bin/Debug/db_local_container.dacpac
+/Users/fe_silva/Developer/Experiments/exp1_sql_project_container/db_local_container/bin/Debug/db_local_container.dll
+/Users/fe_silva/Developer/Experiments/exp1_sql_project_container/db_local_container/bin/Debug/db_local_container.pdb
+/Users/fe_silva/Developer/Experiments/exp1_sql_project_container/db_local_container/obj/Debug/Model.xml
+/Users/fe_silva/Developer/Experiments/exp1_sql_project_container/db_local_container/obj/Debug/refactor.xml
+/Users/fe_silva/Developer/Experiments/exp1_sql_project_container/db_local_container/obj/Debug/postdeploy.sql
+/Users/fe_silva/Developer/Experiments/exp1_sql_project_container/db_local_container/obj/Debug/predeploy.sql
+/Users/fe_silva/Developer/Experiments/exp1_sql_project_container/db_local_container/obj/Debug/db_local_container.dll
+/Users/fe_silva/Developer/Experiments/exp1_sql_project_container/db_local_container/obj/Debug/db_local_container.pdb
