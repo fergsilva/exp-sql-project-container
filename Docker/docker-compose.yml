@@ -1,0 +1,21 @@
+version: '3.4'
+
+services:
+  db-onprem:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: db-sqlserver
+    restart: no
+    env_file:
+      - sqlserver.env
+      - sapassword.env
+    ports:
+      - '1433:1433'
+  db-azure:
+    image: mcr.microsoft.com/azure-sql-edge:latest
+    container_name: db-azuresql
+    restart: no
+    env_file:
+      - sqlserver.env
+      - sapassword.env
+    ports:
+      - '1434:1433'

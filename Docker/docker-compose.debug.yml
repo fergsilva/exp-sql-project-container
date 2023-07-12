@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  exp1sqlprojectcontainer:
+    image: exp1sqlprojectcontainer
+    build:
+      context: .
+      dockerfile: ./Dockerfile
